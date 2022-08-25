@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MutluRenegado
+- 👋 Hi, I’m @MutluAkgun
 - 👀 I’m interested in international trade, e-commerce and digital technologies.
 - 🌱 I’m currently learning any kind of software and language I need.
 - 💞️ I’m looking to collaborate on software and languages.
