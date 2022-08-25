@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @MutluRenegado
+- 👀 I’m interested in international trade, e-commerce and digital technologies.
+- 🌱 I’m currently learning any kind of software and language I need.
+- 💞️ I’m looking to collaborate on software and languages.
+- 📫 How to reach me akgnmutlu@gmail.com.
+
+<!---
+MutluRenegado/MutluRenegado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
