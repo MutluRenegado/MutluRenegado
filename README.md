@@ -3,8 +3,8 @@
 - 🌱 I’m a consultant and entrepreneur.
 - 💞️ I’m looking to collaborate on software and languages.
 - 📫 How to reach me akgnmutlu@gmail.com.
-- My Company: ANM Consultancy
-- Company Website: https://www.anmconsultancy.com/
+- 📫 My Company: ANM Consultancy
+- 📫 Company Website: https://www.anmconsultancy.com/
 
 <!---
 MutluRenegado/MutluRenegado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
